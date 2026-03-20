@@ -1,4 +1,4 @@
-# Smart India 🇮🇳
+# Style India 🇮🇳
 
 An AI-powered application that provides personalized fashion and lifestyle recommendations based on user preferences, skin tone, and occasions.
 
